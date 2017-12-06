@@ -1,0 +1,15 @@
+@import url('reset.css');
+@import url('bootstrap-grid.css');
+@import url('bootstrap-grid.min.css');
+@import url('bootstrap-reboot.css');
+@import url('bootstrap.css');
+@import url('bootstrap.min.css');
+
+
+.saa{
+  border:solid 1px black;
+}
+.no{
+  padding: 0;
+  margin:0;
+}
